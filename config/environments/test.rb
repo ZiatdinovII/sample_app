@@ -53,6 +53,7 @@ Rails.application.configure do
   config.active_support.disallowed_deprecation_warnings = []
 
   config.web_console.development_only = false
+
   # Raises error for missing translations.
   # config.i18n.raise_on_missing_translations = true
 
